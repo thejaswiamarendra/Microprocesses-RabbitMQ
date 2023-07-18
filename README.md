@@ -1,4 +1,4 @@
-# CC Project 2
+# Microprocess Communication using RabbitMQ
 
 ## Running the application
 
